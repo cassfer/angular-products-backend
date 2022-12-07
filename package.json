@@ -1,0 +1,15 @@
+{
+  "name": "angular-products-backend",
+  "version": "1.0.0",
+  "description": "Servidor backend de produtos",
+  "main": "index.js",
+  "scripts": {
+    "start": "json-server --watch db.json --port 3001"
+  },
+  "keywords": [],
+  "author": "Cassio Fernandes",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.16.1"
+  }
+}
