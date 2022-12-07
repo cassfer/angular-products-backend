@@ -3,7 +3,6 @@
   <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
   <a href="postman-colletion/angular-products-backend.postman_collection.json" target="_blank">
     <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" />
-    Documentação
   </a>
 </p>
 
@@ -15,9 +14,9 @@
 <p>Como se trata de um projeto de exemplo e ilustrativo, a base de dados utilizada é o arquivo db.json.</p>
 
 <p>Para maiores informações, verificar a 
-  <b>
-    [collection do postman](./postman-colletion/angular-products-backend.postman_collection.json)
-  </b>
+  <b><a href="postman-colletion/angular-products-backend.postman_collection.json" target="_blank">
+    collection do postman
+  </a></b>
 </p>
 
 ## Instalação

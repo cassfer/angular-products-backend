@@ -10,6 +10,6 @@
   "author": "Cassio Fernandes",
   "license": "ISC",
   "dependencies": {
-    "json-server": "^0.16.1"
+    "json-server": "^0.17.1"
   }
 }
